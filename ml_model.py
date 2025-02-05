@@ -10,3 +10,5 @@ def ml_model2():
 
 def ml_model3():
     print("machine learning model 3")
+
+print("model 2 is performing the best")
